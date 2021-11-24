@@ -1,0 +1,4 @@
+C:\Users\Margie Fuertes\Source\Sistematico6\CalendarioPago\obj\Debug\CalendarioPago.csproj.AssemblyReference.cache
+C:\Users\Margie Fuertes\Source\Sistematico6\CalendarioPago\obj\Debug\CalendarioPago.FrmAgregarCuota.resources
+C:\Users\Margie Fuertes\Source\Sistematico6\CalendarioPago\obj\Debug\CalendarioPago.FrmCalendario.resources
+C:\Users\Margie Fuertes\Source\Sistematico6\CalendarioPago\obj\Debug\CalendarioPago.csproj.GenerateResource.cache
